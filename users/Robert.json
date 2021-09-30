@@ -1,0 +1,12 @@
+{
+	"Name": "Robert",
+	"Age": 26,
+	"Contact": "5 (535) 38-85-541",
+	"Company": "MyTech",
+	"Address": {
+		"City": "Wien",
+		"State": "Vienna",
+		"Country": "Austria",
+		"Pincode": 428
+	}
+}

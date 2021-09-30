@@ -1,0 +1,12 @@
+{
+	"Name": "Peter",
+	"Age": 18,
+	"Contact": "5 (435) 35-39-565",
+	"Company": "MyTech",
+	"Address": {
+		"City": "Wien",
+		"State": "Vienna",
+		"Country": "Austria",
+		"Pincode": 389
+	}
+}

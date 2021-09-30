@@ -1,0 +1,12 @@
+{
+	"Name": "Aleksandr31",
+	"Age": 21,
+	"Contact": "89125026385",
+	"Company": "OOO \"Zdravie\"",
+	"Address": {
+		"City": "Krasnodar",
+		"State": "Krasnodarskij kraj",
+		"Country": "Russia",
+		"Pincode": 666
+	}
+}

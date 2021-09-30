@@ -1,0 +1,12 @@
+{
+	"Name": "Hans",
+	"Age": 20,
+	"Contact": "5 (535) 35-44-561",
+	"Company": "MyTech",
+	"Address": {
+		"City": "Wien",
+		"State": "Vienna",
+		"Country": "Austria",
+		"Pincode": 345
+	}
+}
